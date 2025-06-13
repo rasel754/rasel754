@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
+![image](https://github.com/user-attachments/assets/818b7a17-7158-4239-8978-ef5cea19eacc)<h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/392850dd-c847-4888-a062-f02f4c7c7278)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel754&label=Profile%20views&color=0e75b6&style=flat" alt="rasel754" /> </p>
 
