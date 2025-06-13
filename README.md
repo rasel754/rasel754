@@ -1,3 +1,4 @@
+![logo](https://github.com/rasel754/rasel754/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
