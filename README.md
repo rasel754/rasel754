@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rasel%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Integration&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Turning+ideas+into+production-ready+apps;⚡+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🤖+Building+AI-powered+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=🚀+Turning+ideas+into+production-ready+apps;⚡+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;🤖+Building+AI-powered+web+experiences)](https://git.io/typing-svg)
 
 <br/>
 
